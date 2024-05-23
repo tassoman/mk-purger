@@ -1,0 +1,4 @@
+pip-review
+python-dateutil
+python-dotenv
+Misskey.py
